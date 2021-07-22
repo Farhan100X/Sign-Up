@@ -1,0 +1,63 @@
+.bg {
+    position: relative;
+}
+
+.iphone {
+    position: absolute;
+    margin-left: 25rem;
+    margin-top: 12rem;
+}
+
+#bgp {
+    position: absolute;
+    width: 100%;
+}
+
+#iphonep {
+    height: 22rem;
+    position: absolute;
+}
+
+.Ronce {
+    position: absolute;
+    background-color: #1d3557;
+    width: 18rem;
+    height: 24rem;
+    text-align: center;
+    margin-top: 10rem;
+    margin-left: 24rem;
+    border-top-left-radius: .5rem;
+    border-bottom-left-radius: .5rem;
+}
+
+.Login {
+    position: absolute;
+    background-color: white;
+    width: 18rem;
+    height: 24rem;
+    margin-top: 10rem;
+    margin-left: 42rem;
+    border: 0.001rem solid #1d355723;
+    border-top-right-radius: .5rem;
+    border-bottom-right-radius: .5rem;
+}
+
+.email {
+    margin-left: 2rem;
+
+}
+
+#btn {
+    background-color: #1d3557;
+    font-weight: bolder;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 15rem;
+    margin-left: 2rem;
+    width: 11rem;
+    height: 2.5rem;
+    border-radius: 0.3rem;
+
+
+
+}
